@@ -26,7 +26,7 @@ componentes lo más separadas posibles, mientras que se mantiene la forma de int
 ![image1.png](./ponterR.png)
 
 
-- Cinemachine: Utilizando el Cinemachine2D provisto por Unity (https://unity.com/unity/features/editor/art-and-design/cinemachine), se permite cambiar el foco de la camara, permitiendo cambiar de un punto central, al jugador, al proyectil lanzado al jugador y al enemigo. 
+- Cinemachine: Utilizando el Cinemachine2D provisto por Unity (https://unity.com/unity/features/editor/art-and-design/cinemachine), se permite cambiar el foco de la camara, manteniendo el foco siempre en el repartidor. 
 
 
 - GameManager: Encargado del manejo de las reglas internas del juego y como ente central para manejar los diferentes controladores del juego. GameManager tambien mantendra el control de la puntuación, tiempo restante de juego y tiempo restante para realizar una entrega.
